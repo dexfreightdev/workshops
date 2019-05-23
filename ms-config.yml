@@ -1,0 +1,4 @@
+port: 5555
+main: index.js
+env:
+  CONTRACT_ADDRESS: "0x6799c5f5c58f421724698e34b346c9f38ef4ab71"

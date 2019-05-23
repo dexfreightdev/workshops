@@ -1,0 +1,14 @@
+{
+  "name": "dexfreight-tracking-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "unete-cli": "^1.3.18",
+    "unete-eth": "^1.2.0",
+    "unete-io": "^1.2.7"
+  },
+  "scripts": {
+    "start": "unete-cli run ms-config.yml"
+  }
+}
