@@ -179,6 +179,8 @@ env:
 	CONTRACT_ADDRESS: "YOUR_CONTRACT_ADDRESS"
 ```
 
+NOW RESTART THE BACKEND STOPPING AND RUNNING `yarn start` AGAIN
+
 Go to [https://observablehq.com/@dexfreightteam/dexfreight-tracking-simulation](https://observablehq.com/@dexfreightteam/dexfreight-tracking-simulation) and put the contract address in the main field
 
 Enjoy!
