@@ -42,6 +42,7 @@ const Methods = module.exports = {
             
             if(ship.position >= 1) {
                 clearInterval(interval);
+                
                 await Methods.notifyLocation(ship.iid, 1, ship.stages[1].lat, ship.stages[1].lng);
 
                 ship.position = 1;
